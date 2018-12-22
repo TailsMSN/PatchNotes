@@ -1,0 +1,68 @@
+Patch Notes 12/16/18
+
+Made SwordFighting game script as practice
+Added LeaderBoard
+Beta Save/Load System in place
+Learned to Script to some extent
+Built Zombie Prototype[Broken]
+
+Patch Notes 12/17/18
+
+Built Couch without Error 25
+Built TV without Error 25
+Built Desk with Error 25 -need to remake
+Built Table without Error 25
+Built Trees without Error 25(no error yet)
+Built Floor with Error 25 -need to remake
+Added Fog(disabled for editing)
+Made time night
+Concerns:
+Trees may have error waiting to happen
+Pillows on couch disappear at random with HTTP 404 error, looks like a connection problem but might not be
+
+Patch Notes 12/18/18
+
+Progress Today:
+
+Fixed Pillows
+Built Remote
+Built Table
+Build Chair
+Fixed House Symmetry
+Built Planks
+Completely broke the house.(edited)
+Installed Blender, will remodel house using this.
+
+Patch Notes 12/19/18
+
+House Complete(for now)
+Shop added [WIP]
+Fully-Functioning Save/Load System added(Prevents duplicate items from loading).
+
+Patch Notes 12/20/18
+
+Updated Save/Load System(Now only loads/saves if survivor)[Doesn't clear inventory yet]
+Deleted some unnecessary scripts
+Created BaseZombie
+Made BaseZombie Default Character for testing
+Added walking animation to BaseZombie
+Disabled Reset Button
+Added Spikes to test death
+Added Team Swap on death
+Made Survivor the default team(temporary)
+Began Script for changing player model on death.
+Disabled CharacterAutoLoading
+Added SpawnPads to test teams
+
+Patch Notes 12/21/18
+
+(Not implemented, build is unstable)
+Added Core Game Script(unstable)
+Made game randomly select one "originalZombie" 10 seconds in
+Added Lobby[indev]
+Created Teambased Death  actions
+Made it so Dying as a survivor makes you a zombie in the Infected team
+Made it so Dying as a lobby does nothing but has a delayed spawn time
+Made it so Dying as a zombie makes you instantly respawn
+Fixed shop bug making purchases invisible
+Made Camera type "Follow"
